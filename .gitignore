@@ -1,0 +1,7 @@
+geckodriver.log
+images_processed
+images_resized
+.ipynb_checkpoints
+**/.DS_Store
+
+control*.jpg
